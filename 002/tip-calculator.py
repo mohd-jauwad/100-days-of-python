@@ -1,4 +1,4 @@
-#This program splits the bill between the specified number of people
+#This program splits the bill between the specified number of people.
 print("Welcome to the tip calculator ")
 totalBill = float(input("What's the total bill \n->"))
 print("Sweet ! Now, ")
